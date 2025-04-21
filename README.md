@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**NTRLRecords/ntrlrecords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NTRL Records Label Website
+Live Site: https://v0-ntrl-records-label-wesbite-ntrl-records-projects-35e6d0f3.vercel.app/​
 
-Here are some ideas to get you started:
+Overview
+This is the official website for NTRL Records, a music label showcasing innovative artists and groundbreaking releases since 2024. The site features artist profiles, release catalogs, and contact information.​
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Features
+Latest Releases: Highlighting upcoming and recent music releases.
+
+Artist Profiles: Featuring artists signed under NTRL Records.
+
+Label Philosophy: Emphasizing the label's commitment to pure, unfiltered expression.
+
+Contact Information: Providing channels for demos, bookings, and inquiries.​
+LinkedIn
+
+Technologies Used
+React
+
+Tailwind CSS
+
+Vercel for deployment​
